@@ -2,10 +2,10 @@
   "game": "Shadow of the Tomb Raider",
   "steam_id": "76561199102269125",
   "app_id": 750920,
-  "updated_at_utc": "2026-11-21T14:27:57+00:00",
+  "updated_at_utc": "2026-11-21T16:19:20+00:00",
   "source": "steam-community-xml",
   "total": 99,
-  "unlocked_count": 30,
+  "unlocked_count": 31,
   "unlocked_ids": [
     "archeologist",
     "askingprice",
@@ -20,6 +20,7 @@
     "gunslinger",
     "heartsandminds",
     "helpthyneighbor",
+    "legendaryhunter",
     "likeashadow",
     "lookthere",
     "makeshiftarsenal",
@@ -116,6 +117,12 @@
       "achieved": true,
       "name": "Help thy Neighbor",
       "unlock_timestamp": 1795258033
+    },
+    {
+      "id": "legendaryhunter",
+      "achieved": true,
+      "name": "Legendary Hunter",
+      "unlock_timestamp": 1795277823
     },
     {
       "id": "likeashadow",
@@ -255,7 +262,6 @@
     "inthemoment",
     "lastknownposition",
     "leapinglizards",
-    "legendaryhunter",
     "madetoendure",
     "marksman",
     "monkeydo",
