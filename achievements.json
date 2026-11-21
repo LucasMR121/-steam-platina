@@ -2,10 +2,10 @@
   "game": "Shadow of the Tomb Raider",
   "steam_id": "76561199102269125",
   "app_id": 750920,
-  "updated_at_utc": "2026-11-21T11:22:40+00:00",
+  "updated_at_utc": "2026-11-21T12:37:59+00:00",
   "source": "steam-community-xml",
   "total": 99,
-  "unlocked_count": 22,
+  "unlocked_count": 26,
   "unlocked_ids": [
     "archeologist",
     "askingprice",
@@ -18,17 +18,21 @@
     "fireoflife",
     "firststeps",
     "gunslinger",
+    "heartsandminds",
     "helpthyneighbor",
+    "likeashadow",
     "lookthere",
     "makeshiftarsenal",
     "pathofthestars",
     "playingwithfire",
     "pointofinterest",
     "recipefordisaster",
+    "restingplaces",
     "stelehunter",
     "survivalinstincts",
     "thehiddencity",
-    "untoldriches"
+    "untoldriches",
+    "uptothechallenge"
   ],
   "unlocked": [
     {
@@ -98,10 +102,22 @@
       "unlock_timestamp": 1793640270
     },
     {
+      "id": "heartsandminds",
+      "achieved": true,
+      "name": "Hearts and Minds",
+      "unlock_timestamp": 1795263453
+    },
+    {
       "id": "helpthyneighbor",
       "achieved": true,
       "name": "Help thy Neighbor",
       "unlock_timestamp": 1795258033
+    },
+    {
+      "id": "likeashadow",
+      "achieved": true,
+      "name": "Like a Shadow",
+      "unlock_timestamp": 1795264155
     },
     {
       "id": "lookthere",
@@ -140,6 +156,12 @@
       "unlock_timestamp": 1793640845
     },
     {
+      "id": "restingplaces",
+      "achieved": true,
+      "name": "Resting Places",
+      "unlock_timestamp": 1795263219
+    },
+    {
       "id": "stelehunter",
       "achieved": true,
       "name": "Stele Hunter",
@@ -162,6 +184,12 @@
       "achieved": true,
       "name": "Untold Riches",
       "unlock_timestamp": 1793651948
+    },
+    {
+      "id": "uptothechallenge",
+      "achieved": true,
+      "name": "Up to the Challenge",
+      "unlock_timestamp": 1795263720
     }
   ],
   "locked_ids": [
@@ -192,7 +220,6 @@
     "harmony",
     "heaintheavy",
     "heartoftheserpent",
-    "heartsandminds",
     "heirborn",
     "howllong",
     "hydropower",
@@ -201,7 +228,6 @@
     "lastknownposition",
     "leapinglizards",
     "legendaryhunter",
-    "likeashadow",
     "madetoendure",
     "marksman",
     "monkeydo",
@@ -219,7 +245,6 @@
     "quitetheadventure",
     "rapids",
     "readytorumble",
-    "restingplaces",
     "seasonedclimber",
     "sixthsense",
     "specialized",
@@ -239,7 +264,6 @@
     "turntables",
     "underwaterarcheologist",
     "unwantedtenants",
-    "uptothechallenge",
     "wholeworldblind",
     "zipit"
   ]
