@@ -2,7 +2,7 @@
 
 Conta Steam: `76561199102269125`. Jogo: `750920`.
 
-Este repositório consulta suas conquistas aproximadamente a cada 6 horas com GitHub Actions e, quando funciona, publica `achievements.json`. O agendamento pode atrasar e **não é acompanhamento instantâneo**.
+Este repositório consulta suas conquistas aproximadamente a cada 5 minutos com GitHub Actions e, quando funciona, publica `achievements.json`. O GitHub pode atrasar ou deixar de executar alguns agendamentos; **não é acompanhamento instantâneo** e o ChatGPT só consulta o arquivo quando solicitado.
 
 O arquivo público revela nomes das conquistas **desbloqueadas** e apenas identificadores técnicos das pendentes, evitando spoilers desnecessários.
 
