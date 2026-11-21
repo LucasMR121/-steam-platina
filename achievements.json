@@ -2,10 +2,10 @@
   "game": "Shadow of the Tomb Raider",
   "steam_id": "76561199102269125",
   "app_id": 750920,
-  "updated_at_utc": "2026-11-21T16:19:20+00:00",
+  "updated_at_utc": "2026-11-21T17:21:58+00:00",
   "source": "steam-community-xml",
   "total": 99,
-  "unlocked_count": 31,
+  "unlocked_count": 34,
   "unlocked_ids": [
     "archeologist",
     "askingprice",
@@ -20,10 +20,12 @@
     "gunslinger",
     "heartsandminds",
     "helpthyneighbor",
+    "inthemoment",
     "legendaryhunter",
     "likeashadow",
     "lookthere",
     "makeshiftarsenal",
+    "marksman",
     "pathofthestars",
     "playingwithfire",
     "pointofinterest",
@@ -33,6 +35,7 @@
     "sixthsense",
     "stelehunter",
     "survivalinstincts",
+    "thatwasabreeze",
     "thehiddencity",
     "theunderworld",
     "underwaterarcheologist",
@@ -119,6 +122,12 @@
       "unlock_timestamp": 1795258033
     },
     {
+      "id": "inthemoment",
+      "achieved": true,
+      "name": "In the Moment",
+      "unlock_timestamp": 1795281564
+    },
+    {
       "id": "legendaryhunter",
       "achieved": true,
       "name": "Legendary Hunter",
@@ -141,6 +150,12 @@
       "achieved": true,
       "name": "Makeshift Arsenal",
       "unlock_timestamp": 1793652059
+    },
+    {
+      "id": "marksman",
+      "achieved": true,
+      "name": "Marksman",
+      "unlock_timestamp": 1795281254
     },
     {
       "id": "pathofthestars",
@@ -195,6 +210,12 @@
       "achieved": true,
       "name": "Survival Instincts",
       "unlock_timestamp": 1793645682
+    },
+    {
+      "id": "thatwasabreeze",
+      "achieved": true,
+      "name": "That Was A Breeze",
+      "unlock_timestamp": 1795280783
     },
     {
       "id": "thehiddencity",
@@ -259,11 +280,9 @@
     "howllong",
     "hydropower",
     "iamlaracroft",
-    "inthemoment",
     "lastknownposition",
     "leapinglizards",
     "madetoendure",
-    "marksman",
     "monkeydo",
     "moonlightsonata",
     "moonlitknight",
@@ -285,7 +304,6 @@
     "supriseairattack",
     "teamkill",
     "thanksgiving",
-    "thatwasabreeze",
     "thechosenone",
     "thelesserevil",
     "threadtheneedle",

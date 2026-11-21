@@ -1,10 +1,10 @@
 {
   "game": "Shadow of the Tomb Raider",
-  "checked_at_utc": "2026-11-21T16:20:39+00:00",
+  "checked_at_utc": "2026-11-21T17:21:58+00:00",
   "steam_api_key_configured": true,
   "status": "stats_found",
   "source": "steam-web-api",
-  "numeric_stats_count": 21,
+  "numeric_stats_count": 22,
   "possible_combat_counters": [
     {
       "name": "LikeAShadow_stat",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Marksman_stat",
-      "value": 16
+      "value": 20
     },
     {
       "name": "SixthSense_stat",
@@ -39,6 +39,7 @@
     "LookThere_stat",
     "MadeToEndure_stat",
     "Marksman_stat",
+    "MudMonster_stat",
     "OnTheGo_stat",
     "PlayingWithFire_stat",
     "PointofInterest_stat",
@@ -55,10 +56,10 @@
     {
       "achievement": "Marksman",
       "stat_name": "Marksman_stat",
-      "current": 16,
+      "current": 20,
       "target": 20,
-      "remaining": 4,
-      "reached_target": false
+      "remaining": 0,
+      "reached_target": true
     },
     {
       "achievement": "Surprise!",
@@ -95,17 +96,17 @@
     {
       "achievement": "In the Moment",
       "stat_name": "InTheMoment_stat",
-      "current": 2,
+      "current": 10,
       "target": 10,
-      "remaining": 8,
-      "reached_target": false
+      "remaining": 0,
+      "reached_target": true
     },
     {
       "achievement": "Made to Endure",
       "stat_name": "MadeToEndure_stat",
-      "current": 2,
+      "current": 7,
       "target": 10,
-      "remaining": 8,
+      "remaining": 3,
       "reached_target": false
     }
   ],
