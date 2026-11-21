@@ -1,10 +1,10 @@
 {
   "game": "Shadow of the Tomb Raider",
-  "checked_at_utc": "2026-11-21T17:21:58+00:00",
+  "checked_at_utc": "2026-11-21T18:20:16+00:00",
   "steam_api_key_configured": true,
   "status": "stats_found",
   "source": "steam-web-api",
-  "numeric_stats_count": 22,
+  "numeric_stats_count": 23,
   "possible_combat_counters": [
     {
       "name": "LikeAShadow_stat",
@@ -24,7 +24,7 @@
     },
     {
       "name": "TurnTables_stat",
-      "value": 2
+      "value": 3
     }
   ],
   "notice": "Counter names are not validated against achievement requirements; do not infer exact kills remaining.",
@@ -34,6 +34,7 @@
     "ComoTeLlama_stat",
     "GoodSamaritan_stat",
     "InTheMoment_stat",
+    "LastKnownPosition_stat",
     "LegendaryHunter_stat",
     "LikeAShadow_stat",
     "LookThere_stat",
@@ -72,9 +73,9 @@
     {
       "achievement": "Tables Turned",
       "stat_name": "TurnTables_stat",
-      "current": 2,
+      "current": 3,
       "target": 5,
-      "remaining": 3,
+      "remaining": 2,
       "reached_target": false
     },
     {

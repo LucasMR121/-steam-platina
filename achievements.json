@@ -2,10 +2,10 @@
   "game": "Shadow of the Tomb Raider",
   "steam_id": "76561199102269125",
   "app_id": 750920,
-  "updated_at_utc": "2026-11-21T17:21:58+00:00",
+  "updated_at_utc": "2026-11-21T18:20:16+00:00",
   "source": "steam-community-xml",
   "total": 99,
-  "unlocked_count": 34,
+  "unlocked_count": 35,
   "unlocked_ids": [
     "archeologist",
     "askingprice",
@@ -17,6 +17,7 @@
     "decipheramonolith",
     "fireoflife",
     "firststeps",
+    "gowiththeflow",
     "gunslinger",
     "heartsandminds",
     "helpthyneighbor",
@@ -102,6 +103,12 @@
       "achieved": true,
       "name": "First Steps",
       "unlock_timestamp": 1793641736
+    },
+    {
+      "id": "gowiththeflow",
+      "achieved": true,
+      "name": "Go With The Flow",
+      "unlock_timestamp": 1795282832
     },
     {
       "id": "gunslinger",
@@ -272,7 +279,6 @@
     "gocart",
     "gofish",
     "goodsamaritan",
-    "gowiththeflow",
     "harmony",
     "heaintheavy",
     "heartoftheserpent",
