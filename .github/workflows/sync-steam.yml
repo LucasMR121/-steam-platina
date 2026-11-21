@@ -10,6 +10,7 @@ on:
     paths:
       - '.github/workflows/sync-steam.yml'
       - 'steam_progress.py'
+      - 'stats_probe.py'
 
 permissions:
   contents: write
