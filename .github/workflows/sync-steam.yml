@@ -27,11 +27,15 @@ jobs:
         env:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
         run: python steam_progress.py
+      - name: Testar contadores parciais da Steam
+        env:
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+        run: python stats_probe.py
       - name: Publicar progresso
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add achievements.json
+          git add achievements.json stats_probe.json
           if git diff --cached --quiet; then
             echo "Nenhuma alteração"
             exit 0
