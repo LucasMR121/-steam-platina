@@ -1,0 +1,246 @@
+{
+  "game": "Shadow of the Tomb Raider",
+  "steam_id": "76561199102269125",
+  "app_id": 750920,
+  "updated_at_utc": "2026-11-21T11:22:40+00:00",
+  "source": "steam-community-xml",
+  "total": 99,
+  "unlocked_count": 22,
+  "unlocked_ids": [
+    "archeologist",
+    "askingprice",
+    "betterequipped",
+    "bugcollection",
+    "camouflage",
+    "comotellama",
+    "crimsonblade",
+    "decipheramonolith",
+    "fireoflife",
+    "firststeps",
+    "gunslinger",
+    "helpthyneighbor",
+    "lookthere",
+    "makeshiftarsenal",
+    "pathofthestars",
+    "playingwithfire",
+    "pointofinterest",
+    "recipefordisaster",
+    "stelehunter",
+    "survivalinstincts",
+    "thehiddencity",
+    "untoldriches"
+  ],
+  "unlocked": [
+    {
+      "id": "archeologist",
+      "achieved": true,
+      "name": "Archeologist",
+      "unlock_timestamp": 1795258914
+    },
+    {
+      "id": "askingprice",
+      "achieved": true,
+      "name": "Asking Price",
+      "unlock_timestamp": 1793650193
+    },
+    {
+      "id": "betterequipped",
+      "achieved": true,
+      "name": "Better Equipped",
+      "unlock_timestamp": 1794761602
+    },
+    {
+      "id": "bugcollection",
+      "achieved": true,
+      "name": "Zoologist",
+      "unlock_timestamp": 1794762148
+    },
+    {
+      "id": "camouflage",
+      "achieved": true,
+      "name": "First Blood",
+      "unlock_timestamp": 1793887198
+    },
+    {
+      "id": "comotellama",
+      "achieved": true,
+      "name": "Como Te Llama",
+      "unlock_timestamp": 1794760730
+    },
+    {
+      "id": "crimsonblade",
+      "achieved": true,
+      "name": "Día de Muertos",
+      "unlock_timestamp": 1793639882
+    },
+    {
+      "id": "decipheramonolith",
+      "achieved": true,
+      "name": "Treasures from the Past",
+      "unlock_timestamp": 1793644088
+    },
+    {
+      "id": "fireoflife",
+      "achieved": true,
+      "name": "Fire of Life",
+      "unlock_timestamp": 1793888702
+    },
+    {
+      "id": "firststeps",
+      "achieved": true,
+      "name": "First Steps",
+      "unlock_timestamp": 1793641736
+    },
+    {
+      "id": "gunslinger",
+      "achieved": true,
+      "name": "Gunslinger",
+      "unlock_timestamp": 1793640270
+    },
+    {
+      "id": "helpthyneighbor",
+      "achieved": true,
+      "name": "Help thy Neighbor",
+      "unlock_timestamp": 1795258033
+    },
+    {
+      "id": "lookthere",
+      "achieved": true,
+      "name": "Look, Over There!",
+      "unlock_timestamp": 1793887262
+    },
+    {
+      "id": "makeshiftarsenal",
+      "achieved": true,
+      "name": "Makeshift Arsenal",
+      "unlock_timestamp": 1793652059
+    },
+    {
+      "id": "pathofthestars",
+      "achieved": true,
+      "name": "Path of the Stars",
+      "unlock_timestamp": 1793637634
+    },
+    {
+      "id": "playingwithfire",
+      "achieved": true,
+      "name": "Playing with Fire",
+      "unlock_timestamp": 1793640052
+    },
+    {
+      "id": "pointofinterest",
+      "achieved": true,
+      "name": "Point of Interest",
+      "unlock_timestamp": 1793649658
+    },
+    {
+      "id": "recipefordisaster",
+      "achieved": true,
+      "name": "Recipe for Disaster",
+      "unlock_timestamp": 1793640845
+    },
+    {
+      "id": "stelehunter",
+      "achieved": true,
+      "name": "Stele Hunter",
+      "unlock_timestamp": 1795129653
+    },
+    {
+      "id": "survivalinstincts",
+      "achieved": true,
+      "name": "Survival Instincts",
+      "unlock_timestamp": 1793645682
+    },
+    {
+      "id": "thehiddencity",
+      "achieved": true,
+      "name": "The Hidden City",
+      "unlock_timestamp": 1794758242
+    },
+    {
+      "id": "untoldriches",
+      "achieved": true,
+      "name": "Untold Riches",
+      "unlock_timestamp": 1793651948
+    }
+  ],
+  "locked_ids": [
+    "alldlcmissionscomplete",
+    "apexpredator",
+    "backtopaititi",
+    "beastoflegend",
+    "bleedingedge",
+    "caimanconquered",
+    "cannonized",
+    "chelattack",
+    "chelgame",
+    "completionist",
+    "creaturecomforts",
+    "destinystrialed",
+    "drcroft",
+    "dressedforsuccess",
+    "echoesofthefast",
+    "echoesofthefurious",
+    "eyesofthestorm",
+    "familyties",
+    "firstblood",
+    "floatlikeabutterfly",
+    "gocart",
+    "gofish",
+    "goodsamaritan",
+    "gowiththeflow",
+    "harmony",
+    "heaintheavy",
+    "heartoftheserpent",
+    "heartsandminds",
+    "heirborn",
+    "howllong",
+    "hydropower",
+    "iamlaracroft",
+    "inthemoment",
+    "lastknownposition",
+    "leapinglizards",
+    "legendaryhunter",
+    "likeashadow",
+    "madetoendure",
+    "marksman",
+    "monkeydo",
+    "moonlightsonata",
+    "moonlitknight",
+    "mudmonster",
+    "mushroomwithaview",
+    "offshorecount",
+    "onewiththejungle",
+    "onthego",
+    "organgrinder",
+    "prisonbreak",
+    "putherselftogether",
+    "queenofthedamned",
+    "quitetheadventure",
+    "rapids",
+    "readytorumble",
+    "restingplaces",
+    "seasonedclimber",
+    "sixthsense",
+    "specialized",
+    "spoiledforchoice",
+    "stinglikeabee",
+    "supriseairattack",
+    "teamkill",
+    "thanksgiving",
+    "thatwasabreeze",
+    "thechosenone",
+    "thelesserevil",
+    "theunderworld",
+    "threadtheneedle",
+    "tombraider",
+    "tothenines",
+    "treasurehunter",
+    "turntables",
+    "underwaterarcheologist",
+    "unwantedtenants",
+    "uptothechallenge",
+    "wholeworldblind",
+    "zipit"
+  ]
+}
