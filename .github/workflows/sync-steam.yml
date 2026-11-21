@@ -12,6 +12,11 @@ on:
       - 'steam_progress.py'
       - 'stats_probe.py'
 
+# Evita corrida entre execuções que gravam achievements.json.
+concurrency:
+  group: steam-platina-sync
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
