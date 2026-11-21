@@ -72,6 +72,9 @@ def main():
               "source": source, "total": len(achievements), "unlocked_count": len(unlocked),
               "unlocked_ids": [a["id"] for a in unlocked], "unlocked": unlocked,
               "locked_ids": sorted(a["id"] for a in achievements if not a["achieved"])}
+    if OUT.exists() and previous.get("unlocked_ids") == result["unlocked_ids"] and previous.get("total") == result["total"]:
+        print("No new achievements; keeping the existing file without creating a commit")
+        return
     OUT.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Synced {len(unlocked)}/{len(achievements)} achievements from {source}")
 
