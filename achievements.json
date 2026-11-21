@@ -2,10 +2,10 @@
   "game": "Shadow of the Tomb Raider",
   "steam_id": "76561199102269125",
   "app_id": 750920,
-  "updated_at_utc": "2026-11-21T12:37:59+00:00",
+  "updated_at_utc": "2026-11-21T14:27:57+00:00",
   "source": "steam-community-xml",
   "total": 99,
-  "unlocked_count": 26,
+  "unlocked_count": 30,
   "unlocked_ids": [
     "archeologist",
     "askingprice",
@@ -28,9 +28,13 @@
     "pointofinterest",
     "recipefordisaster",
     "restingplaces",
+    "seasonedclimber",
+    "sixthsense",
     "stelehunter",
     "survivalinstincts",
     "thehiddencity",
+    "theunderworld",
+    "underwaterarcheologist",
     "untoldriches",
     "uptothechallenge"
   ],
@@ -162,6 +166,18 @@
       "unlock_timestamp": 1795263219
     },
     {
+      "id": "seasonedclimber",
+      "achieved": true,
+      "name": "New Heights",
+      "unlock_timestamp": 1795270494
+    },
+    {
+      "id": "sixthsense",
+      "achieved": true,
+      "name": "Sixth Sense",
+      "unlock_timestamp": 1795268116
+    },
+    {
       "id": "stelehunter",
       "achieved": true,
       "name": "Stele Hunter",
@@ -178,6 +194,18 @@
       "achieved": true,
       "name": "The Hidden City",
       "unlock_timestamp": 1794758242
+    },
+    {
+      "id": "theunderworld",
+      "achieved": true,
+      "name": "The Underworld",
+      "unlock_timestamp": 1795270232
+    },
+    {
+      "id": "underwaterarcheologist",
+      "achieved": true,
+      "name": "Underwater Archeologist",
+      "unlock_timestamp": 1795265429
     },
     {
       "id": "untoldriches",
@@ -245,8 +273,6 @@
     "quitetheadventure",
     "rapids",
     "readytorumble",
-    "seasonedclimber",
-    "sixthsense",
     "specialized",
     "spoiledforchoice",
     "stinglikeabee",
@@ -256,13 +282,11 @@
     "thatwasabreeze",
     "thechosenone",
     "thelesserevil",
-    "theunderworld",
     "threadtheneedle",
     "tombraider",
     "tothenines",
     "treasurehunter",
     "turntables",
-    "underwaterarcheologist",
     "unwantedtenants",
     "wholeworldblind",
     "zipit"
