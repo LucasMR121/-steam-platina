@@ -2,10 +2,10 @@
   "game": "Shadow of the Tomb Raider",
   "steam_id": "76561199102269125",
   "app_id": 750920,
-  "updated_at_utc": "2026-11-21T19:58:22+00:00",
+  "updated_at_utc": "2026-11-21T20:38:52+00:00",
   "source": "steam-community-xml",
   "total": 99,
-  "unlocked_count": 37,
+  "unlocked_count": 39,
   "unlocked_ids": [
     "archeologist",
     "askingprice",
@@ -19,6 +19,7 @@
     "firststeps",
     "gowiththeflow",
     "gunslinger",
+    "heaintheavy",
     "heartsandminds",
     "helpthyneighbor",
     "inthemoment",
@@ -28,6 +29,7 @@
     "makeshiftarsenal",
     "marksman",
     "mudmonster",
+    "mushroomwithaview",
     "pathofthestars",
     "playingwithfire",
     "pointofinterest",
@@ -119,6 +121,12 @@
       "unlock_timestamp": 1793640270
     },
     {
+      "id": "heaintheavy",
+      "achieved": true,
+      "name": "He Ain't Heavy",
+      "unlock_timestamp": 1795292979
+    },
+    {
       "id": "heartsandminds",
       "achieved": true,
       "name": "Hearts and Minds",
@@ -171,6 +179,12 @@
       "achieved": true,
       "name": "Chain Gang",
       "unlock_timestamp": 1795285866
+    },
+    {
+      "id": "mushroomwithaview",
+      "achieved": true,
+      "name": "Mushroom With A View",
+      "unlock_timestamp": 1795292393
     },
     {
       "id": "pathofthestars",
@@ -294,7 +308,6 @@
     "gofish",
     "goodsamaritan",
     "harmony",
-    "heaintheavy",
     "heartoftheserpent",
     "heirborn",
     "howllong",
@@ -306,7 +319,6 @@
     "monkeydo",
     "moonlightsonata",
     "moonlitknight",
-    "mushroomwithaview",
     "offshorecount",
     "onewiththejungle",
     "onthego",

@@ -1,8 +1,8 @@
 {
-  "source_last_achievement_change_utc": "2026-11-21T19:58:22+00:00",
+  "source_last_achievement_change_utc": "2026-11-21T20:38:52+00:00",
   "achievements_total": 36,
-  "achievements_unlocked": 2,
-  "achievements_remaining": 34,
+  "achievements_unlocked": 4,
+  "achievements_remaining": 32,
   "dlc_groups": [
     {
       "dlc": "The Forge",
@@ -70,11 +70,11 @@
     },
     {
       "dlc": "The Price of Survival",
-      "unlocked": 0,
+      "unlocked": 2,
       "total": 5,
       "status_by_kind": {
-        "tomb": false,
-        "mission": false,
+        "tomb": true,
+        "mission": true,
         "equipment": false,
         "time_attack": false,
         "score_attack": false
@@ -86,7 +86,11 @@
         "time_attack": "gocart",
         "score_attack": "cannonized"
       },
-      "next_steps": []
+      "next_steps": [
+        "Missão feita: equipar a combinação de arma e traje da DLC no acampamento.",
+        "Tumba feita: falta bronze no Time Attack da tumba.",
+        "Tumba feita: falta bronze no Score Attack da tumba."
+      ]
     },
     {
       "dlc": "The Serpent's Heart",
