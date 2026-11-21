@@ -72,6 +72,7 @@ def main():
     if raw:
         report['status'] = 'stats_found'
         report['numeric_stats_count'] = len(raw)
+        report['stat_identifiers'] = sorted(str(item.get('name', ''))[:100] for item in raw)
         for item in raw:
             name = str(item.get('name', ''))
             value = item.get('value')
