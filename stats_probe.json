@@ -1,12 +1,32 @@
 {
   "game": "Shadow of the Tomb Raider",
-  "checked_at_utc": "2026-11-21T14:37:33+00:00",
+  "checked_at_utc": "2026-11-21T14:38:04+00:00",
   "steam_api_key_configured": true,
   "status": "stats_found",
   "source": "steam-web-api",
   "numeric_stats_count": 18,
   "possible_combat_counters": [],
   "notice": "Counter names are not validated against achievement requirements; do not infer exact kills remaining.",
+  "stat_identifiers": [
+    "BetterEquipped_stat",
+    "BugCollection_stat",
+    "ComoTeLlama_stat",
+    "LegendaryHunter_stat",
+    "LikeAShadow_stat",
+    "LookThere_stat",
+    "Marksman_stat",
+    "OnTheGo_stat",
+    "PlayingWithFire_stat",
+    "PointofInterest_stat",
+    "SixthSense_stat",
+    "SteleHunter_stat",
+    "SupriseAirAttack_stat",
+    "TombRaider_stat",
+    "TurnTables_stat",
+    "UnderwaterArcheologist_stat",
+    "UntoldRiches_stat",
+    "UpToTheChallenge_stat"
+  ],
   "diagnostics": [
     "public_statsfeed: HTTPError"
   ]
