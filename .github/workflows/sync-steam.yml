@@ -11,6 +11,7 @@ on:
       - '.github/workflows/sync-steam.yml'
       - 'steam_progress.py'
       - 'stats_probe.py'
+      - 'refresh-request.txt'
 
 # Evita corrida entre execuções que gravam achievements.json.
 concurrency:
