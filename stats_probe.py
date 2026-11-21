@@ -12,7 +12,7 @@ from pathlib import Path
 STEAM_ID = '76561199102269125'
 APP_ID = 750920
 OUT = Path('stats_probe.json')
-PATTERN = re.compile(r'kill|headshot|head_shot|stealth|melee|focus|perception|endurance|serpent|chain|bow|eagle|takedown|finisher|assassin|fear|enemy|enemies|finish|combo', re.I)
+PATTERN = re.compile(r'kill|headshot|head_shot|stealth|melee|focus|perception|endurance|serpent|chain|bow|eagle|takedown|finisher|assassin|fear|enemy|enemies|finish|combo|marksman|supriseairattack|turntables|likeashadow|sixthsense', re.I)
 
 def get(url):
     req = urllib.request.Request(url, headers={'User-Agent': 'SteamAchievementStatsProbe/1.0'})
