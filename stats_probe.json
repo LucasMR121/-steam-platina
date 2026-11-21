@@ -1,6 +1,6 @@
 {
   "game": "Shadow of the Tomb Raider",
-  "checked_at_utc": "2026-11-21T14:38:33+00:00",
+  "checked_at_utc": "2026-11-21T14:39:04+00:00",
   "steam_api_key_configured": true,
   "status": "stats_found",
   "source": "steam-web-api",
@@ -47,6 +47,48 @@
     "UnderwaterArcheologist_stat",
     "UntoldRiches_stat",
     "UpToTheChallenge_stat"
+  ],
+  "combat_progress": [
+    {
+      "achievement": "Marksman",
+      "stat_name": "Marksman_stat",
+      "current": 12,
+      "target": 20,
+      "remaining": 8,
+      "reached_target": false
+    },
+    {
+      "achievement": "Surprise!",
+      "stat_name": "SupriseAirAttack_stat",
+      "current": 2,
+      "target": 5,
+      "remaining": 3,
+      "reached_target": false
+    },
+    {
+      "achievement": "Tables Turned",
+      "stat_name": "TurnTables_stat",
+      "current": 1,
+      "target": 5,
+      "remaining": 4,
+      "reached_target": false
+    },
+    {
+      "achievement": "Like a Shadow",
+      "stat_name": "LikeAShadow_stat",
+      "current": 25,
+      "target": 25,
+      "remaining": 0,
+      "reached_target": true
+    },
+    {
+      "achievement": "Sixth Sense",
+      "stat_name": "SixthSense_stat",
+      "current": 10,
+      "target": 10,
+      "remaining": 0,
+      "reached_target": true
+    }
   ],
   "diagnostics": [
     "public_statsfeed: HTTPError"
