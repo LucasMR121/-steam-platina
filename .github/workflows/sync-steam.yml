@@ -3,7 +3,13 @@ name: Sincronizar conquistas da Steam
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/5 * * * *'
+    # Minutos fora do início de cada hora reduzem disputas por agendamento.
+    - cron: '3-59/5 * * * *'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/sync-steam.yml'
+      - 'steam_progress.py'
 
 permissions:
   contents: write
