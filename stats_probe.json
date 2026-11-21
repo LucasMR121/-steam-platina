@@ -1,0 +1,14 @@
+{
+  "game": "Shadow of the Tomb Raider",
+  "checked_at_utc": "2026-11-21T14:33:20+00:00",
+  "steam_api_key_configured": false,
+  "status": "stats_unavailable",
+  "source": null,
+  "numeric_stats_count": 0,
+  "possible_combat_counters": [],
+  "notice": "Counter names are not validated against achievement requirements; do not infer exact kills remaining.",
+  "diagnostics": [
+    "public_statsfeed: HTTPError",
+    "Steam Web API: key not configured"
+  ]
+}
