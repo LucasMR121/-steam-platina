@@ -11,6 +11,7 @@ on:
       - '.github/workflows/sync-steam.yml'
       - 'steam_progress.py'
       - 'stats_probe.py'
+      - 'dlc_progress.py'
       - 'refresh-request.txt'
 
 # Evita corrida entre execuções que gravam achievements.json.
@@ -38,11 +39,13 @@ jobs:
         env:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
         run: python stats_probe.py
+      - name: Conferir todas as conquistas DLC
+        run: python dlc_progress.py
       - name: Publicar progresso
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add achievements.json stats_probe.json
+          git add achievements.json stats_probe.json dlc_progress.json
           if git diff --cached --quiet; then
             echo "Nenhuma alteração"
             exit 0
