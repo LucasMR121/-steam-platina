@@ -92,6 +92,8 @@ def main():
             ('Tables Turned', 'TurnTables_stat', 5),
             ('Like a Shadow', 'LikeAShadow_stat', 25),
             ('Sixth Sense', 'SixthSense_stat', 10),
+            ('In the Moment', 'InTheMoment_stat', 10),
+            ('Made to Endure', 'MadeToEndure_stat', 10),
         ]
         stats_by_name = {str(item.get('name')): item.get('value') for item in raw}
         report['combat_progress'] = []
