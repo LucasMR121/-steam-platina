@@ -85,6 +85,29 @@ def main():
                     continue
                 report['possible_combat_counters'].append({'name': name[:150], 'value': numeric})
         report['possible_combat_counters'].sort(key=lambda d: d['name'])
+        # Só contabilizar conquistas cujo contador Steam foi identificado.
+        targets = [
+            ('Marksman', 'Marksman_stat', 20),
+            ('Surprise!', 'SupriseAirAttack_stat', 5),
+            ('Tables Turned', 'TurnTables_stat', 5),
+            ('Like a Shadow', 'LikeAShadow_stat', 25),
+            ('Sixth Sense', 'SixthSense_stat', 10),
+        ]
+        stats_by_name = {str(item.get('name')): item.get('value') for item in raw}
+        report['combat_progress'] = []
+        for label, stat_name, goal in targets:
+            if stat_name not in stats_by_name:
+                continue
+            try:
+                current = max(0, int(stats_by_name[stat_name]))
+            except (TypeError, ValueError, OverflowError):
+                continue
+            report['combat_progress'].append({
+                'achievement': label, 'stat_name': stat_name,
+                'current': current, 'target': goal,
+                'remaining': max(0, goal - current),
+                'reached_target': current >= goal
+            })
     report['diagnostics'] = errors
     if OUT.exists():
         try:
