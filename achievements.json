@@ -2,10 +2,10 @@
   "game": "Shadow of the Tomb Raider",
   "steam_id": "76561199102269125",
   "app_id": 750920,
-  "updated_at_utc": "2026-11-21T18:20:16+00:00",
+  "updated_at_utc": "2026-11-21T19:58:22+00:00",
   "source": "steam-community-xml",
   "total": 99,
-  "unlocked_count": 35,
+  "unlocked_count": 37,
   "unlocked_ids": [
     "archeologist",
     "askingprice",
@@ -27,6 +27,7 @@
     "lookthere",
     "makeshiftarsenal",
     "marksman",
+    "mudmonster",
     "pathofthestars",
     "playingwithfire",
     "pointofinterest",
@@ -39,6 +40,7 @@
     "thatwasabreeze",
     "thehiddencity",
     "theunderworld",
+    "turntables",
     "underwaterarcheologist",
     "untoldriches",
     "uptothechallenge"
@@ -165,6 +167,12 @@
       "unlock_timestamp": 1795281254
     },
     {
+      "id": "mudmonster",
+      "achieved": true,
+      "name": "Chain Gang",
+      "unlock_timestamp": 1795285866
+    },
+    {
       "id": "pathofthestars",
       "achieved": true,
       "name": "Path of the Stars",
@@ -237,6 +245,12 @@
       "unlock_timestamp": 1795270232
     },
     {
+      "id": "turntables",
+      "achieved": true,
+      "name": "Tables Turned",
+      "unlock_timestamp": 1795286015
+    },
+    {
       "id": "underwaterarcheologist",
       "achieved": true,
       "name": "Underwater Archeologist",
@@ -292,7 +306,6 @@
     "monkeydo",
     "moonlightsonata",
     "moonlitknight",
-    "mudmonster",
     "mushroomwithaview",
     "offshorecount",
     "onewiththejungle",
@@ -316,7 +329,6 @@
     "tombraider",
     "tothenines",
     "treasurehunter",
-    "turntables",
     "unwantedtenants",
     "wholeworldblind",
     "zipit"

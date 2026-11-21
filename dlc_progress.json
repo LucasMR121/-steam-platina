@@ -1,0 +1,157 @@
+{
+  "source_last_achievement_change_utc": "2026-11-21T19:58:22+00:00",
+  "achievements_total": 36,
+  "achievements_unlocked": 2,
+  "achievements_remaining": 34,
+  "dlc_groups": [
+    {
+      "dlc": "The Forge",
+      "unlocked": 0,
+      "total": 5,
+      "status_by_kind": {
+        "tomb": false,
+        "mission": false,
+        "equipment": false,
+        "time_attack": false,
+        "score_attack": false
+      },
+      "achievement_ids": {
+        "tomb": "destinystrialed",
+        "mission": "heirborn",
+        "equipment": "bleedingedge",
+        "time_attack": "echoesofthefast",
+        "score_attack": "echoesofthefurious"
+      },
+      "next_steps": []
+    },
+    {
+      "dlc": "The Pillar",
+      "unlocked": 2,
+      "total": 5,
+      "status_by_kind": {
+        "tomb": true,
+        "mission": true,
+        "equipment": false,
+        "time_attack": false,
+        "score_attack": false
+      },
+      "achievement_ids": {
+        "tomb": "thatwasabreeze",
+        "mission": "gowiththeflow",
+        "equipment": "eyesofthestorm",
+        "time_attack": "floatlikeabutterfly",
+        "score_attack": "stinglikeabee"
+      },
+      "next_steps": [
+        "Missão feita: equipar a combinação de arma e traje da DLC no acampamento.",
+        "Tumba feita: falta bronze no Time Attack da tumba.",
+        "Tumba feita: falta bronze no Score Attack da tumba."
+      ]
+    },
+    {
+      "dlc": "The Nightmare",
+      "unlocked": 0,
+      "total": 5,
+      "status_by_kind": {
+        "tomb": false,
+        "mission": false,
+        "equipment": false,
+        "time_attack": false,
+        "score_attack": false
+      },
+      "achievement_ids": {
+        "tomb": "monkeydo",
+        "mission": "harmony",
+        "equipment": "creaturecomforts",
+        "time_attack": "howllong",
+        "score_attack": "organgrinder"
+      },
+      "next_steps": []
+    },
+    {
+      "dlc": "The Price of Survival",
+      "unlocked": 0,
+      "total": 5,
+      "status_by_kind": {
+        "tomb": false,
+        "mission": false,
+        "equipment": false,
+        "time_attack": false,
+        "score_attack": false
+      },
+      "achievement_ids": {
+        "tomb": "mushroomwithaview",
+        "mission": "heaintheavy",
+        "equipment": "dressedforsuccess",
+        "time_attack": "gocart",
+        "score_attack": "cannonized"
+      },
+      "next_steps": []
+    },
+    {
+      "dlc": "The Serpent's Heart",
+      "unlocked": 0,
+      "total": 5,
+      "status_by_kind": {
+        "tomb": false,
+        "mission": false,
+        "equipment": false,
+        "time_attack": false,
+        "score_attack": false
+      },
+      "achievement_ids": {
+        "tomb": "hydropower",
+        "mission": "wholeworldblind",
+        "equipment": "spoiledforchoice",
+        "time_attack": "rapids",
+        "score_attack": "gofish"
+      },
+      "next_steps": []
+    },
+    {
+      "dlc": "The Grand Caiman",
+      "unlocked": 0,
+      "total": 5,
+      "status_by_kind": {
+        "tomb": false,
+        "mission": false,
+        "equipment": false,
+        "time_attack": false,
+        "score_attack": false
+      },
+      "achievement_ids": {
+        "tomb": "caimanconquered",
+        "mission": "leapinglizards",
+        "equipment": "readytorumble",
+        "time_attack": "zipit",
+        "score_attack": "offshorecount"
+      },
+      "next_steps": []
+    },
+    {
+      "dlc": "The Path Home",
+      "unlocked": 0,
+      "total": 5,
+      "status_by_kind": {
+        "tomb": false,
+        "mission": false,
+        "equipment": false,
+        "time_attack": false,
+        "score_attack": false
+      },
+      "achievement_ids": {
+        "tomb": "putherselftogether",
+        "mission": "moonlightsonata",
+        "equipment": "moonlitknight",
+        "time_attack": "chelgame",
+        "score_attack": "chelattack"
+      },
+      "next_steps": []
+    }
+  ],
+  "all_seven_missions_achievement": {
+    "id": "alldlcmissionscomplete",
+    "unlocked": false
+  },
+  "important": "Estado da Steam; conquista bloqueada nao prova que seja perdivel. Tumbas DLC permitem Time/Score Attack posteriormente."
+}
