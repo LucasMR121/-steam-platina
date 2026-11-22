@@ -94,11 +94,20 @@ def main():
             ('Sixth Sense', 'SixthSense_stat', 10),
             ('In the Moment', 'InTheMoment_stat', 10),
             ('Made to Endure', 'MadeToEndure_stat', 10),
+            ('Last Known Position', 'LastKnownPosition_stat', 10),
+            ('Total Party Kill', 'Teamkill_stat', 5),
         ]
         stats_by_name = {str(item.get('name')): item.get('value') for item in raw}
         report['combat_progress'] = []
+        report['awaiting_steam_counters'] = []
         for label, stat_name, goal in targets:
             if stat_name not in stats_by_name:
+                report['awaiting_steam_counters'].append({
+                    'achievement': label, 'stat_name': stat_name,
+                    'target': goal, 'current': None,
+                    'status': 'not_reported_by_steam',
+                    'note': 'Ausencia nao significa necessariamente zero.'
+                })
                 continue
             try:
                 current = max(0, int(stats_by_name[stat_name]))
