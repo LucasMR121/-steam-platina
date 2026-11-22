@@ -1,10 +1,10 @@
 {
   "game": "Shadow of the Tomb Raider",
-  "checked_at_utc": "2026-11-22T11:13:44+00:00",
+  "checked_at_utc": "2026-11-22T11:18:42+00:00",
   "steam_api_key_configured": true,
   "status": "stats_found",
   "source": "steam-web-api",
-  "numeric_stats_count": 23,
+  "numeric_stats_count": 24,
   "possible_combat_counters": [
     {
       "name": "LikeAShadow_stat",
@@ -32,6 +32,7 @@
     "BetterEquipped_stat",
     "BugCollection_stat",
     "ComoTeLlama_stat",
+    "DrCroft_stat",
     "GoodSamaritan_stat",
     "InTheMoment_stat",
     "LastKnownPosition_stat",

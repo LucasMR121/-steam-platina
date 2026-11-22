@@ -1,0 +1,69 @@
+{
+  "game": "Shadow of the Tomb Raider",
+  "source": "ISteamUserStats/GetSchemaForGame/v2",
+  "status": "ok",
+  "stat_identifiers": [
+    "BetterEquipped_stat",
+    "BugCollection_stat",
+    "ComoTeLlama_stat",
+    "DrCroft_stat",
+    "GoodSamaritan_stat",
+    "InTheMoment_stat",
+    "LastKnownPosition_stat",
+    "LegendaryHunter_stat",
+    "LikeAShadow_stat",
+    "LookThere_stat",
+    "MadeToEndure_stat",
+    "Marksman_stat",
+    "MudMonster_stat",
+    "OnTheGo_stat",
+    "PlayingWithFire_stat",
+    "PointofInterest_stat",
+    "SixthSense_stat",
+    "SteleHunter_stat",
+    "SupriseAirAttack_stat",
+    "Teamkill_stat",
+    "ThreadTheNeedle_stat",
+    "TombRaider_stat",
+    "TreasureHunter_stat",
+    "TurnTables_stat",
+    "UnderwaterArcheologist_stat",
+    "UntoldRiches_stat",
+    "UpToTheChallenge_stat"
+  ],
+  "target_achievement_metadata": [
+    {
+      "id": "Teamkill",
+      "keys": [
+        "defaultvalue",
+        "description",
+        "displayName",
+        "hidden",
+        "icon",
+        "icongray",
+        "name"
+      ],
+      "progress_related_fields": {}
+    },
+    {
+      "id": "LastKnownPosition",
+      "keys": [
+        "defaultvalue",
+        "description",
+        "displayName",
+        "hidden",
+        "icon",
+        "icongray",
+        "name"
+      ],
+      "progress_related_fields": {}
+    }
+  ],
+  "relevant_stat_identifiers": [
+    "LastKnownPosition_stat",
+    "Teamkill_stat"
+  ],
+  "note": "Esquema mostra configuracoes do jogo, nao valores pessoais de progresso.",
+  "numeric_stats_count": 27,
+  "total_achievements_in_schema": 99
+}
