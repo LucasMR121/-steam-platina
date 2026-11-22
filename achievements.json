@@ -2,10 +2,10 @@
   "game": "Shadow of the Tomb Raider",
   "steam_id": "76561199102269125",
   "app_id": 750920,
-  "updated_at_utc": "2026-11-21T20:38:52+00:00",
+  "updated_at_utc": "2026-11-22T12:01:08+00:00",
   "source": "steam-community-xml",
   "total": 99,
-  "unlocked_count": 39,
+  "unlocked_count": 41,
   "unlocked_ids": [
     "archeologist",
     "askingprice",
@@ -16,6 +16,7 @@
     "crimsonblade",
     "decipheramonolith",
     "fireoflife",
+    "firstblood",
     "firststeps",
     "gowiththeflow",
     "gunslinger",
@@ -33,6 +34,7 @@
     "pathofthestars",
     "playingwithfire",
     "pointofinterest",
+    "prisonbreak",
     "recipefordisaster",
     "restingplaces",
     "seasonedclimber",
@@ -101,6 +103,12 @@
       "achieved": true,
       "name": "Fire of Life",
       "unlock_timestamp": 1793888702
+    },
+    {
+      "id": "firstblood",
+      "achieved": true,
+      "name": "That's a Knife!",
+      "unlock_timestamp": 1795347290
     },
     {
       "id": "firststeps",
@@ -205,6 +213,12 @@
       "unlock_timestamp": 1793649658
     },
     {
+      "id": "prisonbreak",
+      "achieved": true,
+      "name": "I Believe Hakan Fly",
+      "unlock_timestamp": 1795347328
+    },
+    {
       "id": "recipefordisaster",
       "achieved": true,
       "name": "Recipe for Disaster",
@@ -302,7 +316,6 @@
     "echoesofthefurious",
     "eyesofthestorm",
     "familyties",
-    "firstblood",
     "floatlikeabutterfly",
     "gocart",
     "gofish",
@@ -323,7 +336,6 @@
     "onewiththejungle",
     "onthego",
     "organgrinder",
-    "prisonbreak",
     "putherselftogether",
     "queenofthedamned",
     "quitetheadventure",

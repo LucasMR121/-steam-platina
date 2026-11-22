@@ -1,10 +1,10 @@
 {
   "game": "Shadow of the Tomb Raider",
-  "checked_at_utc": "2026-11-22T11:19:25+00:00",
+  "checked_at_utc": "2026-11-22T12:01:08+00:00",
   "steam_api_key_configured": true,
   "status": "stats_found",
   "source": "steam-web-api",
-  "numeric_stats_count": 24,
+  "numeric_stats_count": 25,
   "possible_combat_counters": [
     {
       "name": "LikeAShadow_stat",
@@ -49,6 +49,7 @@
     "SteleHunter_stat",
     "SupriseAirAttack_stat",
     "TombRaider_stat",
+    "TreasureHunter_stat",
     "TurnTables_stat",
     "UnderwaterArcheologist_stat",
     "UntoldRiches_stat",
