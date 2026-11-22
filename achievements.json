@@ -2,10 +2,10 @@
   "game": "Shadow of the Tomb Raider",
   "steam_id": "76561199102269125",
   "app_id": 750920,
-  "updated_at_utc": "2026-11-22T12:51:51+00:00",
+  "updated_at_utc": "2026-11-22T13:49:34+00:00",
   "source": "steam-community-xml",
   "total": 99,
-  "unlocked_count": 43,
+  "unlocked_count": 46,
   "unlocked_ids": [
     "archeologist",
     "askingprice",
@@ -25,6 +25,7 @@
     "heartsandminds",
     "helpthyneighbor",
     "inthemoment",
+    "lastknownposition",
     "legendaryhunter",
     "likeashadow",
     "lookthere",
@@ -42,7 +43,9 @@
     "seasonedclimber",
     "sixthsense",
     "stelehunter",
+    "supriseairattack",
     "survivalinstincts",
+    "teamkill",
     "thatwasabreeze",
     "thehiddencity",
     "theunderworld",
@@ -161,6 +164,12 @@
       "unlock_timestamp": 1795281564
     },
     {
+      "id": "lastknownposition",
+      "achieved": true,
+      "name": "Last Known Position",
+      "unlock_timestamp": 1795352760
+    },
+    {
       "id": "legendaryhunter",
       "achieved": true,
       "name": "Legendary Hunter",
@@ -263,10 +272,22 @@
       "unlock_timestamp": 1795129653
     },
     {
+      "id": "supriseairattack",
+      "achieved": true,
+      "name": "Surprise!",
+      "unlock_timestamp": 1795355109
+    },
+    {
       "id": "survivalinstincts",
       "achieved": true,
       "name": "Survival Instincts",
       "unlock_timestamp": 1793645682
+    },
+    {
+      "id": "teamkill",
+      "achieved": true,
+      "name": "Total Party Kill",
+      "unlock_timestamp": 1795355213
     },
     {
       "id": "thatwasabreeze",
@@ -339,7 +360,6 @@
     "howllong",
     "hydropower",
     "iamlaracroft",
-    "lastknownposition",
     "leapinglizards",
     "monkeydo",
     "moonlightsonata",
@@ -356,8 +376,6 @@
     "specialized",
     "spoiledforchoice",
     "stinglikeabee",
-    "supriseairattack",
-    "teamkill",
     "thanksgiving",
     "thechosenone",
     "thelesserevil",

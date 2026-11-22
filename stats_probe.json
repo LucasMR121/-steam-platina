@@ -1,10 +1,10 @@
 {
   "game": "Shadow of the Tomb Raider",
-  "checked_at_utc": "2026-11-22T12:58:58+00:00",
+  "checked_at_utc": "2026-11-22T13:49:34+00:00",
   "steam_api_key_configured": true,
   "status": "stats_found",
   "source": "steam-web-api",
-  "numeric_stats_count": 25,
+  "numeric_stats_count": 26,
   "possible_combat_counters": [
     {
       "name": "LikeAShadow_stat",
@@ -20,7 +20,11 @@
     },
     {
       "name": "SupriseAirAttack_stat",
-      "value": 2
+      "value": 5
+    },
+    {
+      "name": "Teamkill_stat",
+      "value": 5
     },
     {
       "name": "TurnTables_stat",
@@ -48,6 +52,7 @@
     "SixthSense_stat",
     "SteleHunter_stat",
     "SupriseAirAttack_stat",
+    "Teamkill_stat",
     "TombRaider_stat",
     "TreasureHunter_stat",
     "TurnTables_stat",
@@ -67,10 +72,10 @@
     {
       "achievement": "Surprise!",
       "stat_name": "SupriseAirAttack_stat",
-      "current": 2,
+      "current": 5,
       "target": 5,
-      "remaining": 3,
-      "reached_target": false
+      "remaining": 0,
+      "reached_target": true
     },
     {
       "achievement": "Tables Turned",
@@ -115,22 +120,21 @@
     {
       "achievement": "Last Known Position",
       "stat_name": "LastKnownPosition_stat",
-      "current": 6,
+      "current": 10,
       "target": 10,
-      "remaining": 4,
-      "reached_target": false
-    }
-  ],
-  "awaiting_steam_counters": [
+      "remaining": 0,
+      "reached_target": true
+    },
     {
       "achievement": "Total Party Kill",
       "stat_name": "Teamkill_stat",
+      "current": 5,
       "target": 5,
-      "current": null,
-      "status": "not_reported_by_steam",
-      "note": "Ausencia nao significa necessariamente zero."
+      "remaining": 0,
+      "reached_target": true
     }
   ],
+  "awaiting_steam_counters": [],
   "diagnostics": [
     "public_statsfeed: ValueError"
   ]
