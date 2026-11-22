@@ -1,8 +1,8 @@
 {
-  "source_last_achievement_change_utc": "2026-11-22T13:49:34+00:00",
+  "source_last_achievement_change_utc": "2026-11-22T14:21:04+00:00",
   "achievements_total": 36,
-  "achievements_unlocked": 4,
-  "achievements_remaining": 32,
+  "achievements_unlocked": 6,
+  "achievements_remaining": 30,
   "dlc_groups": [
     {
       "dlc": "The Forge",
@@ -26,12 +26,12 @@
     },
     {
       "dlc": "The Pillar",
-      "unlocked": 2,
+      "unlocked": 3,
       "total": 5,
       "status_by_kind": {
         "tomb": true,
         "mission": true,
-        "equipment": false,
+        "equipment": true,
         "time_attack": false,
         "score_attack": false
       },
@@ -43,7 +43,6 @@
         "score_attack": "stinglikeabee"
       },
       "next_steps": [
-        "Missão feita: equipar a combinação de arma e traje da DLC no acampamento.",
         "Tumba feita: falta bronze no Time Attack da tumba.",
         "Tumba feita: falta bronze no Score Attack da tumba."
       ]
@@ -70,12 +69,12 @@
     },
     {
       "dlc": "The Price of Survival",
-      "unlocked": 2,
+      "unlocked": 3,
       "total": 5,
       "status_by_kind": {
         "tomb": true,
         "mission": true,
-        "equipment": false,
+        "equipment": true,
         "time_attack": false,
         "score_attack": false
       },
@@ -87,7 +86,6 @@
         "score_attack": "cannonized"
       },
       "next_steps": [
-        "Missão feita: equipar a combinação de arma e traje da DLC no acampamento.",
         "Tumba feita: falta bronze no Time Attack da tumba.",
         "Tumba feita: falta bronze no Score Attack da tumba."
       ]
