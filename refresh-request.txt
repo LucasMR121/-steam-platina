@@ -1,3 +1,3 @@
 Solicitação de atualização das conquistas Steam.
 Esta linha pode ser alterada para disparar nova execução.
-Pedido: consulta solicitada pelo usuario em 22/11/2026, sincronizar Steam e todas as DLCs.
+Pedido: verificar progresso após avançar na campanha e explorar flechas de medo — 22/11/2026.
