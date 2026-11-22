@@ -1,6 +1,6 @@
 {
   "game": "Shadow of the Tomb Raider",
-  "checked_at_utc": "2026-11-22T11:18:42+00:00",
+  "checked_at_utc": "2026-11-22T11:19:25+00:00",
   "steam_api_key_configured": true,
   "status": "stats_found",
   "source": "steam-web-api",
@@ -110,6 +110,24 @@
       "target": 10,
       "remaining": 3,
       "reached_target": false
+    },
+    {
+      "achievement": "Last Known Position",
+      "stat_name": "LastKnownPosition_stat",
+      "current": 3,
+      "target": 10,
+      "remaining": 7,
+      "reached_target": false
+    }
+  ],
+  "awaiting_steam_counters": [
+    {
+      "achievement": "Total Party Kill",
+      "stat_name": "Teamkill_stat",
+      "target": 5,
+      "current": null,
+      "status": "not_reported_by_steam",
+      "note": "Ausencia nao significa necessariamente zero."
     }
   ],
   "diagnostics": [
