@@ -2,10 +2,10 @@
   "game": "Shadow of the Tomb Raider",
   "steam_id": "76561199102269125",
   "app_id": 750920,
-  "updated_at_utc": "2026-11-22T12:01:08+00:00",
+  "updated_at_utc": "2026-11-22T12:51:51+00:00",
   "source": "steam-community-xml",
   "total": 99,
-  "unlocked_count": 41,
+  "unlocked_count": 43,
   "unlocked_ids": [
     "archeologist",
     "askingprice",
@@ -15,6 +15,7 @@
     "comotellama",
     "crimsonblade",
     "decipheramonolith",
+    "familyties",
     "fireoflife",
     "firstblood",
     "firststeps",
@@ -27,6 +28,7 @@
     "legendaryhunter",
     "likeashadow",
     "lookthere",
+    "madetoendure",
     "makeshiftarsenal",
     "marksman",
     "mudmonster",
@@ -99,6 +101,12 @@
       "unlock_timestamp": 1793644088
     },
     {
+      "id": "familyties",
+      "achieved": true,
+      "name": "Family Ties",
+      "unlock_timestamp": 1795350362
+    },
+    {
       "id": "fireoflife",
       "achieved": true,
       "name": "Fire of Life",
@@ -169,6 +177,12 @@
       "achieved": true,
       "name": "Look, Over There!",
       "unlock_timestamp": 1793887262
+    },
+    {
+      "id": "madetoendure",
+      "achieved": true,
+      "name": "Made to Endure",
+      "unlock_timestamp": 1795351856
     },
     {
       "id": "makeshiftarsenal",
@@ -315,7 +329,6 @@
     "echoesofthefast",
     "echoesofthefurious",
     "eyesofthestorm",
-    "familyties",
     "floatlikeabutterfly",
     "gocart",
     "gofish",
@@ -328,7 +341,6 @@
     "iamlaracroft",
     "lastknownposition",
     "leapinglizards",
-    "madetoendure",
     "monkeydo",
     "moonlightsonata",
     "moonlitknight",

@@ -1,6 +1,6 @@
 {
   "game": "Shadow of the Tomb Raider",
-  "checked_at_utc": "2026-11-22T12:01:08+00:00",
+  "checked_at_utc": "2026-11-22T12:51:51+00:00",
   "steam_api_key_configured": true,
   "status": "stats_found",
   "source": "steam-web-api",
@@ -107,17 +107,17 @@
     {
       "achievement": "Made to Endure",
       "stat_name": "MadeToEndure_stat",
-      "current": 7,
+      "current": 10,
       "target": 10,
-      "remaining": 3,
-      "reached_target": false
+      "remaining": 0,
+      "reached_target": true
     },
     {
       "achievement": "Last Known Position",
       "stat_name": "LastKnownPosition_stat",
-      "current": 3,
+      "current": 4,
       "target": 10,
-      "remaining": 7,
+      "remaining": 6,
       "reached_target": false
     }
   ],
