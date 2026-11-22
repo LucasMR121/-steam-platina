@@ -1,6 +1,6 @@
 {
   "game": "Shadow of the Tomb Raider",
-  "checked_at_utc": "2026-11-22T14:21:04+00:00",
+  "checked_at_utc": "2026-11-22T21:17:09+00:00",
   "steam_api_key_configured": true,
   "status": "stats_found",
   "source": "steam-web-api",
@@ -136,6 +136,6 @@
   ],
   "awaiting_steam_counters": [],
   "diagnostics": [
-    "public_statsfeed: HTTPError"
+    "public_statsfeed: ValueError"
   ]
 }
